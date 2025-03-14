@@ -1,0 +1,13 @@
+
+Русский
+1. получите токен телеграм бота в @BotFather
+2. зайдите в  свою Интегрированную среду разработки на Python(PyCharm,VisualCode и так далее) 
+3. создайте два файла, в первом (cofig.py) заполните нужные данные, во второй (main.py) вставьте основной код
+4. запустите проект, и добавьте бота в нужную группу и пропишите команду /reid по окончанию рейда можно прописать /stop 
+5.по желанию добавить бота на хостинг, чтобы он работал 24\7
+English
+1. Get a telegram bot token at @BotFather
+2. Log into your Python Integrated Development Environment (PyCharm, VisualCode, and so on) 
+3. Create two files, in the first one (cofig.py ) fill in the required data, in the second (main.py ) insert the main code
+4. start the project, and add the bot to the desired group and write the command / reid at the end of the raid, you can write / stop 
+5. if desired, add a bot to the hosting so that it works 24/7
