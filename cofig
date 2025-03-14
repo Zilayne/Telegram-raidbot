@@ -1,0 +1,14 @@
+ADMIN_ID = 1234567890  # Your Telegram ID (replace with your actual ID)
+
+TOKENS = [
+    "YOUR_BOT_TOKEN_HERE"  # Your bot tokens from @BotFather (replace with your actual tokens)
+]
+
+MESSAGES = [
+    "Test message",
+    "Hello, world!"
+]  # Your spam messages here (must be in quotes and separated by commas)
+
+COUNT = 1000  # Number of messages to send
+
+DELAY = 1  # Delay between sending messages (in seconds)
