@@ -1,14 +1,14 @@
-ADMIN_ID = 1234567890  # Your Telegram ID (replace with your actual ID)
+ADMIN_ID = 1234567890  # Ваш ID в Telegram / Your Telegram ID (замените на ваш реальный ID / replace with your actual ID)
 
 TOKENS = [
-    "YOUR_BOT_TOKEN_HERE"  # Your bot tokens from @BotFather (replace with your actual tokens)
+    "YOUR_BOT_TOKEN_HERE"  # Ваши токены от @BotFather / Your bot tokens from @BotFather (замените на ваши реальные токены / replace with your actual tokens)
 ]
 
 MESSAGES = [
-    "Test message",
-    "Hello, world!"
-]  # Your spam messages here (must be in quotes and separated by commas)
+    "Test message",  # Текст вашего спама / Your spam text
+    "Hello, world!"  # Обязательно в кавычках и через запятую / Must be in quotes and separated by commas
+]
 
-COUNT = 1000  # Number of messages to send
+COUNT = 1000  # Количество сообщений / Number of messages to send
 
-DELAY = 1  # Delay between sending messages (in seconds)
+DELAY = 1  # Задержка между отправкой сообщений (в секундах) / Delay between sending messages (in seconds)
